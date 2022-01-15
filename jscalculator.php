@@ -75,10 +75,7 @@ button{
         </table>
     </div>
     </div>
-</body>
-
-</html>
-<script>
+    <script>
 var screen= document.getElementById('screen');
 buttons =document.querySelectorAll('button')
 var screenValue='';
@@ -120,3 +117,6 @@ for(item of buttons){
     })
 }
 </script>
+</body>
+
+</html>
